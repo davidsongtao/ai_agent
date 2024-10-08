@@ -9,6 +9,7 @@ CrewAI是一个创新的多角色agent框架，专为角色扮演中的AI代理�
 1. 安装Python环境，建议使用Anaconda。Python == 3.10
 2. 安装全部依赖: pip install crewai==0.41.0; pip install langchain;
 3. 使用任何大模型API需要获取对应的API Key，并配置在环境变量中。
+4. 使用到的库请查看requirements.txt。
 
 ### 代码实现
 1. 构建脚本custom_tools.py。定义将Agent生成内容保存到本地文档的函数；定义将文本自动发送到邮箱的函数；
