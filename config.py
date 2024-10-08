@@ -15,5 +15,5 @@ class ParametersConfig(object):
     def __init__(self):
         self.log_directory = r"D:\ai_agent\logs"  # 日志文件保存路径
         self.openai_api_key = "your_api_key"  # openai的API key
-        self.chatglm_api_key = "your_api_key"
+        self.chatglm_api_key = "87227d2fac86297bb60e762d9063389f.2BLXetwOheTLtjMD"
         self.openai_base_url = "https://api.openai.com/v1/"

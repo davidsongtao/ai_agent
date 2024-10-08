@@ -35,8 +35,8 @@ class CustomTools:
         # 配置邮件信息
         from_name = "King Songtao"
         from_address = "daisongtao88@qq.com"
-        from_pwd = "your_password"
-        to_address = "fanjiang.connie@hotmail.com"
+        from_pwd = "dgwpwdbefbjwbdjj"
+        to_address = "david.songtao@hotmail.com"
         my_title = "小情书"
 
         # 读取文件内容
