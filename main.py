@@ -119,7 +119,7 @@ def create_tasks(agents):
         logger.error(f"创建任务失败，错误信息：{e}")
 
 
-def create_crew(agents, tasks):
+def create_crew(agents:dict, tasks):
     """创建crew实例并执行"""
     try:
         crew = Crew(
