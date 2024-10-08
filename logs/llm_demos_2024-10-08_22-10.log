@@ -1,0 +1,58 @@
+2024-10-08 22:38:47 | ERROR    | __main__:create_agents:70 - 创建智能体代理失败，错误信息：'NoneType' object has no attribute 'bind'
+2024-10-08 22:39:30 | ERROR    | __main__:create_tasks:116 - 创建任务失败，错误信息：'NoneType' object is not subscriptable
+2024-10-08 22:39:30 | ERROR    | __main__:create_crew:133 - 任务执行时发生错误! 错误信息：'NoneType' object has no attribute 'values'
+2024-10-08 22:42:23 | ERROR    | __main__:create_agents:71 - 创建智能体代理失败，错误信息：new_agent() missing 1 required positional argument: 'tools'
+2024-10-08 22:45:03 | SUCCESS  | __main__:create_agents:49 - 作家已就绪
+2024-10-08 22:45:03 | SUCCESS  | __main__:create_agents:59 - 内容编辑已就绪
+2024-10-08 22:45:03 | SUCCESS  | __main__:create_agents:69 - 寄信人已就绪
+2024-10-08 22:45:20 | SUCCESS  | __main__:create_tasks:98 - task1已就绪
+2024-10-08 22:45:20 | SUCCESS  | __main__:create_tasks:107 - task2已就绪
+2024-10-08 22:45:20 | SUCCESS  | __main__:create_tasks:115 - task3已就绪
+2024-10-08 22:45:20 | SUCCESS  | __main__:create_crew:131 - crew已就绪
+2024-10-08 22:45:21 | ERROR    | __main__:create_crew:136 - 任务执行时发生错误! 错误信息：Invalid API key: your_api_key
+2024-10-08 22:45:42 | SUCCESS  | __main__:create_agents:49 - 作家已就绪
+2024-10-08 22:45:42 | SUCCESS  | __main__:create_agents:59 - 内容编辑已就绪
+2024-10-08 22:45:42 | SUCCESS  | __main__:create_agents:69 - 寄信人已就绪
+2024-10-08 22:45:53 | SUCCESS  | __main__:create_tasks:98 - task1已就绪
+2024-10-08 22:45:53 | SUCCESS  | __main__:create_tasks:107 - task2已就绪
+2024-10-08 22:45:53 | SUCCESS  | __main__:create_tasks:115 - task3已就绪
+2024-10-08 22:45:53 | SUCCESS  | __main__:create_crew:131 - crew已就绪
+2024-10-08 22:46:04 | SUCCESS  | custom_tools:store_poesy_to_txt:25 - 将书信保存到txt文档成功！文件路径：poie.txt
+2024-10-08 22:46:09 | SUCCESS  | custom_tools:store_poesy_to_txt:25 - 将书信保存到txt文档成功！文件路径：poie.txt
+2024-10-08 22:46:16 | ERROR    | custom_tools:send_message:68 - 邮件服务器连接失败！错误信息：Connection unexpectedly closed
+2024-10-08 22:46:16 | ERROR    | custom_tools:send_message:68 - 邮件服务器连接失败！错误信息：Connection unexpectedly closed
+2024-10-08 22:46:16 | ERROR    | custom_tools:send_message:68 - 邮件服务器连接失败！错误信息：Connection unexpectedly closed
+2024-10-08 22:46:23 | ERROR    | custom_tools:send_message:68 - 邮件服务器连接失败！错误信息：Connection unexpectedly closed
+2024-10-08 22:46:23 | ERROR    | custom_tools:send_message:68 - 邮件服务器连接失败！错误信息：Connection unexpectedly closed
+2024-10-08 22:46:23 | ERROR    | custom_tools:send_message:68 - 邮件服务器连接失败！错误信息：Connection unexpectedly closed
+2024-10-08 22:46:24 | ERROR    | custom_tools:send_message:68 - 邮件服务器连接失败！错误信息：Connection unexpectedly closed
+2024-10-08 22:46:24 | ERROR    | custom_tools:send_message:68 - 邮件服务器连接失败！错误信息：Connection unexpectedly closed
+2024-10-08 22:46:24 | ERROR    | custom_tools:send_message:68 - 邮件服务器连接失败！错误信息：Connection unexpectedly closed
+2024-10-08 22:46:33 | ERROR    | custom_tools:send_message:68 - 邮件服务器连接失败！错误信息：Connection unexpectedly closed
+2024-10-08 22:46:33 | ERROR    | custom_tools:send_message:68 - 邮件服务器连接失败！错误信息：Connection unexpectedly closed
+2024-10-08 22:46:34 | ERROR    | custom_tools:send_message:68 - 邮件服务器连接失败！错误信息：Connection unexpectedly closed
+2024-10-08 22:46:34 | ERROR    | custom_tools:send_message:68 - 邮件服务器连接失败！错误信息：Connection unexpectedly closed
+2024-10-08 22:46:34 | ERROR    | custom_tools:send_message:68 - 邮件服务器连接失败！错误信息：Connection unexpectedly closed
+2024-10-08 22:46:34 | ERROR    | custom_tools:send_message:68 - 邮件服务器连接失败！错误信息：Connection unexpectedly closed
+2024-10-08 22:46:40 | ERROR    | custom_tools:send_message:68 - 邮件服务器连接失败！错误信息：Connection unexpectedly closed
+2024-10-08 22:46:40 | ERROR    | custom_tools:send_message:68 - 邮件服务器连接失败！错误信息：Connection unexpectedly closed
+2024-10-08 22:46:41 | ERROR    | custom_tools:send_message:68 - 邮件服务器连接失败！错误信息：Connection unexpectedly closed
+2024-10-08 22:46:47 | ERROR    | custom_tools:send_message:68 - 邮件服务器连接失败！错误信息：Connection unexpectedly closed
+2024-10-08 22:46:47 | ERROR    | custom_tools:send_message:68 - 邮件服务器连接失败！错误信息：Connection unexpectedly closed
+2024-10-08 22:46:48 | ERROR    | custom_tools:send_message:68 - 邮件服务器连接失败！错误信息：Connection unexpectedly closed
+2024-10-08 22:46:48 | ERROR    | custom_tools:send_message:68 - 邮件服务器连接失败！错误信息：Connection unexpectedly closed
+2024-10-08 22:46:48 | ERROR    | custom_tools:send_message:68 - 邮件服务器连接失败！错误信息：Connection unexpectedly closed
+2024-10-08 22:46:49 | ERROR    | custom_tools:send_message:68 - 邮件服务器连接失败！错误信息：Connection unexpectedly closed
+2024-10-08 22:47:26 | SUCCESS  | __main__:create_agents:49 - 作家已就绪
+2024-10-08 22:47:26 | SUCCESS  | __main__:create_agents:59 - 内容编辑已就绪
+2024-10-08 22:47:26 | SUCCESS  | __main__:create_agents:69 - 寄信人已就绪
+2024-10-08 22:47:38 | SUCCESS  | __main__:create_tasks:98 - task1已就绪
+2024-10-08 22:47:38 | SUCCESS  | __main__:create_tasks:107 - task2已就绪
+2024-10-08 22:47:38 | SUCCESS  | __main__:create_tasks:115 - task3已就绪
+2024-10-08 22:47:38 | SUCCESS  | __main__:create_crew:131 - crew已就绪
+2024-10-08 22:47:51 | SUCCESS  | custom_tools:store_poesy_to_txt:25 - 将书信保存到txt文档成功！文件路径：poie.txt
+2024-10-08 22:47:57 | SUCCESS  | custom_tools:store_poesy_to_txt:25 - 将书信保存到txt文档成功！文件路径：poie.txt
+2024-10-08 22:48:09 | SUCCESS  | custom_tools:send_message:65 - 邮件发送成功！
+2024-10-08 22:48:14 | SUCCESS  | __main__:create_crew:134 - 任务执行完毕，结果为：The email has been sent successfully. The content of the letter is as follows:
+
+在这宇宙浩瀚的宁静中，你成为我心灵最耀眼的星辰。伴随着四季的更迭，我对你的情感犹如一条永不停歇的河流，温柔而又坚定地流淌在时间的长河里。我愿以飘渺云霞为纸，以变幻风雨为墨，在大自然的怀抱中书写你的名字，让我的呼唤响彻世界的每个角落。在这漫长的人生旅途中，愿我能够紧握你的手，共同编织属于我们的美妙旋律。

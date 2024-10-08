@@ -1,0 +1,8 @@
+2024-10-08 21:56:14 | SUCCESS  | __main__:<module>:36 - 作家已就绪
+2024-10-08 21:56:14 | SUCCESS  | __main__:<module>:54 - 内容编辑已就绪
+2024-10-08 21:56:14 | SUCCESS  | __main__:<module>:71 - 寄信人已就绪
+2024-10-08 21:56:20 | SUCCESS  | __main__:<module>:90 - task1已就绪
+2024-10-08 21:56:20 | SUCCESS  | __main__:<module>:106 - task2已就绪
+2024-10-08 21:56:20 | SUCCESS  | __main__:<module>:119 - task3已就绪
+2024-10-08 21:56:20 | SUCCESS  | __main__:<module>:131 - crew已就绪
+2024-10-08 21:56:20 | ERROR    | __main__:<module>:139 - 执行任务时发生错误!错误信息：Invalid API key: your_api_key
