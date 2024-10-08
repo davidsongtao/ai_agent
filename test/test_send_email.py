@@ -15,7 +15,7 @@ from email.utils import formataddr
 def send_test_email():
     from_name = "King Songtao"
     from_address = "daisongtao88@qq.com"
-    from_pwd = "dgwpwdbefbjwbdjj"
+    from_pwd = "your_pwd"
     to_address = "david.songtao@hotmail.com"
     my_title = "Test Email"
     my_msg = "This is a test email."

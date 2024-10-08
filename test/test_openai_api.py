@@ -10,7 +10,7 @@ Description:
 import openai
 
 # 替换为你的有效 API 密钥
-openai.api_key = "sk-None-vjHZ6I8WCQqcGASGDrhfT3BlbkFJugCM9jxRSqZuKN9U9Z22"
+openai.api_key = "your_api_key"
 
 
 def test_openai_api():

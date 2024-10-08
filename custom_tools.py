@@ -34,9 +34,9 @@ class CustomTools:
         """读取生成的本地书信文件txt文本,并以邮件的形式发送到某个人的邮箱中"""
         # 配置邮件信息
         from_name = "King Songtao"
-        from_address = "daisongtao88@qq.com"
-        from_pwd = "dgwpwdbefbjwbdjj"
-        to_address = "david.songtao@hotmail.com"
+        from_address = "your_email_address"
+        from_pwd = "your_pwd"
+        to_address = "to_email_address"
         my_title = "小情书"
 
         # 读取文件内容
