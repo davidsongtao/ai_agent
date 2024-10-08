@@ -1,0 +1,144 @@
+2024-10-08 14:00:59 | SUCCESS  | __main__:<module>:33 - 作家已就绪
+2024-10-08 14:04:17 | SUCCESS  | __main__:<module>:33 - 作家已就绪
+2024-10-08 14:04:17 | SUCCESS  | __main__:<module>:51 - 内容编辑已就绪
+2024-10-08 14:04:17 | SUCCESS  | __main__:<module>:68 - 寄信人已就绪
+2024-10-08 14:04:45 | INFO     | __main__:<module>:74 - 用户需求：请给江帆写一封情书，内容是生日祝福
+2024-10-08 14:04:45 | SUCCESS  | __main__:<module>:88 - 用户需求：请给江帆写一封情书，内容是生日祝福,
+        你最后给出的答案必须是一份富含爱情表示的情书。
+        已就绪
+2024-10-08 14:04:45 | SUCCESS  | __main__:<module>:116 - 根据本次磁盘保存的书信内容，你将整理并发送邮件给心仪的人，这个很重要.
+        你最后的答一定要成功发送该邮件.
+        已就绪
+2024-10-08 14:04:45 | ERROR    | __main__:<module>:135 - 执行任务时发生错误!错误信息：litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=glm-4
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+2024-10-08 14:06:10 | SUCCESS  | __main__:<module>:33 - 作家已就绪
+2024-10-08 14:06:10 | SUCCESS  | __main__:<module>:51 - 内容编辑已就绪
+2024-10-08 14:06:10 | SUCCESS  | __main__:<module>:68 - 寄信人已就绪
+2024-10-08 14:06:19 | INFO     | __main__:<module>:74 - 用户需求：请给江帆写一封情书，内容是生日祝福
+2024-10-08 14:06:19 | SUCCESS  | __main__:<module>:88 - 用户需求：请给江帆写一封情书，内容是生日祝福,
+        你最后给出的答案必须是一份富含爱情表示的情书。
+        已就绪
+2024-10-08 14:06:19 | SUCCESS  | __main__:<module>:116 - 根据本次磁盘保存的书信内容，你将整理并发送邮件给心仪的人，这个很重要.
+        你最后的答一定要成功发送该邮件.
+        已就绪
+2024-10-08 14:07:26 | SUCCESS  | __main__:<module>:33 - 作家已就绪
+2024-10-08 14:07:26 | SUCCESS  | __main__:<module>:51 - 内容编辑已就绪
+2024-10-08 14:07:26 | SUCCESS  | __main__:<module>:68 - 寄信人已就绪
+2024-10-08 14:07:29 | SUCCESS  | __main__:<module>:87 - task1已就绪
+2024-10-08 14:07:29 | SUCCESS  | __main__:<module>:103 - task2已就绪
+2024-10-08 14:07:29 | SUCCESS  | __main__:<module>:116 - task3已就绪
+2024-10-08 14:08:03 | SUCCESS  | __main__:<module>:33 - 作家已就绪
+2024-10-08 14:08:03 | SUCCESS  | __main__:<module>:51 - 内容编辑已就绪
+2024-10-08 14:08:03 | SUCCESS  | __main__:<module>:68 - 寄信人已就绪
+2024-10-08 14:08:06 | SUCCESS  | __main__:<module>:87 - task1已就绪
+2024-10-08 14:08:06 | SUCCESS  | __main__:<module>:103 - task2已就绪
+2024-10-08 14:08:06 | SUCCESS  | __main__:<module>:116 - task3已就绪
+2024-10-08 14:08:06 | SUCCESS  | __main__:<module>:128 - crew已就绪
+2024-10-08 14:08:06 | ERROR    | __main__:<module>:136 - 执行任务时发生错误!错误信息：litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=glm-4
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+2024-10-08 14:11:48 | SUCCESS  | __main__:<module>:33 - 作家已就绪
+2024-10-08 14:11:48 | SUCCESS  | __main__:<module>:51 - 内容编辑已就绪
+2024-10-08 14:11:48 | SUCCESS  | __main__:<module>:68 - 寄信人已就绪
+2024-10-08 14:12:01 | SUCCESS  | __main__:<module>:87 - task1已就绪
+2024-10-08 14:12:01 | SUCCESS  | __main__:<module>:103 - task2已就绪
+2024-10-08 14:12:01 | SUCCESS  | __main__:<module>:116 - task3已就绪
+2024-10-08 14:12:01 | SUCCESS  | __main__:<module>:128 - crew已就绪
+2024-10-08 14:12:10 | ERROR    | __main__:<module>:136 - 执行任务时发生错误!错误信息：litellm.APIError: HuggingfaceException - response is not in expected format - [{'error': 'Please log in or use a HF access token'}]
+2024-10-08 14:14:19 | SUCCESS  | __main__:<module>:33 - 作家已就绪
+2024-10-08 14:14:19 | SUCCESS  | __main__:<module>:51 - 内容编辑已就绪
+2024-10-08 14:14:19 | SUCCESS  | __main__:<module>:68 - 寄信人已就绪
+2024-10-08 14:17:12 | SUCCESS  | __main__:<module>:33 - 作家已就绪
+2024-10-08 14:17:12 | SUCCESS  | __main__:<module>:51 - 内容编辑已就绪
+2024-10-08 14:17:12 | SUCCESS  | __main__:<module>:68 - 寄信人已就绪
+2024-10-08 14:17:26 | SUCCESS  | __main__:<module>:87 - task1已就绪
+2024-10-08 14:17:26 | SUCCESS  | __main__:<module>:103 - task2已就绪
+2024-10-08 14:17:26 | SUCCESS  | __main__:<module>:116 - task3已就绪
+2024-10-08 14:17:26 | SUCCESS  | __main__:<module>:128 - crew已就绪
+2024-10-08 14:17:26 | ERROR    | __main__:<module>:136 - 执行任务时发生错误!错误信息：litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=glm-4
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+2024-10-08 14:19:37 | SUCCESS  | __main__:<module>:33 - 作家已就绪
+2024-10-08 14:19:37 | SUCCESS  | __main__:<module>:51 - 内容编辑已就绪
+2024-10-08 14:19:37 | SUCCESS  | __main__:<module>:68 - 寄信人已就绪
+2024-10-08 14:19:46 | SUCCESS  | __main__:<module>:87 - task1已就绪
+2024-10-08 14:19:46 | SUCCESS  | __main__:<module>:103 - task2已就绪
+2024-10-08 14:19:46 | SUCCESS  | __main__:<module>:116 - task3已就绪
+2024-10-08 14:19:46 | SUCCESS  | __main__:<module>:128 - crew已就绪
+2024-10-08 14:19:46 | ERROR    | __main__:<module>:136 - 执行任务时发生错误!错误信息：litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=THUDM/glm-4-9b-chat
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+2024-10-08 14:21:41 | SUCCESS  | __main__:<module>:35 - 作家已就绪
+2024-10-08 14:21:41 | SUCCESS  | __main__:<module>:53 - 内容编辑已就绪
+2024-10-08 14:21:41 | SUCCESS  | __main__:<module>:70 - 寄信人已就绪
+2024-10-08 14:22:09 | SUCCESS  | __main__:<module>:89 - task1已就绪
+2024-10-08 14:22:09 | SUCCESS  | __main__:<module>:105 - task2已就绪
+2024-10-08 14:22:09 | SUCCESS  | __main__:<module>:118 - task3已就绪
+2024-10-08 14:22:09 | SUCCESS  | __main__:<module>:130 - crew已就绪
+2024-10-08 14:22:09 | ERROR    | __main__:<module>:138 - 执行任务时发生错误!错误信息：litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=glm-4
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+2024-10-08 14:24:17 | SUCCESS  | __main__:<module>:33 - 作家已就绪
+2024-10-08 14:24:17 | SUCCESS  | __main__:<module>:51 - 内容编辑已就绪
+2024-10-08 14:24:17 | SUCCESS  | __main__:<module>:68 - 寄信人已就绪
+2024-10-08 14:26:01 | SUCCESS  | __main__:<module>:33 - 作家已就绪
+2024-10-08 14:26:01 | SUCCESS  | __main__:<module>:51 - 内容编辑已就绪
+2024-10-08 14:26:01 | SUCCESS  | __main__:<module>:68 - 寄信人已就绪
+2024-10-08 14:26:12 | SUCCESS  | __main__:<module>:87 - task1已就绪
+2024-10-08 14:26:12 | SUCCESS  | __main__:<module>:103 - task2已就绪
+2024-10-08 14:26:12 | SUCCESS  | __main__:<module>:116 - task3已就绪
+2024-10-08 14:26:12 | SUCCESS  | __main__:<module>:128 - crew已就绪
+2024-10-08 14:26:12 | ERROR    | __main__:<module>:136 - 执行任务时发生错误!错误信息：litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=glm-4
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+2024-10-08 14:30:13 | SUCCESS  | __main__:<module>:33 - 作家已就绪
+2024-10-08 14:30:13 | SUCCESS  | __main__:<module>:51 - 内容编辑已就绪
+2024-10-08 14:30:13 | SUCCESS  | __main__:<module>:68 - 寄信人已就绪
+2024-10-08 14:30:20 | SUCCESS  | __main__:<module>:87 - task1已就绪
+2024-10-08 14:30:20 | SUCCESS  | __main__:<module>:103 - task2已就绪
+2024-10-08 14:30:20 | SUCCESS  | __main__:<module>:116 - task3已就绪
+2024-10-08 14:30:20 | SUCCESS  | __main__:<module>:128 - crew已就绪
+2024-10-08 14:30:20 | ERROR    | __main__:<module>:136 - 执行任务时发生错误!错误信息：litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=glm-4
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+2024-10-08 14:37:47 | SUCCESS  | __main__:<module>:37 - 作家已就绪
+2024-10-08 14:37:47 | SUCCESS  | __main__:<module>:55 - 内容编辑已就绪
+2024-10-08 14:37:47 | SUCCESS  | __main__:<module>:72 - 寄信人已就绪
+2024-10-08 14:37:55 | SUCCESS  | __main__:<module>:91 - task1已就绪
+2024-10-08 14:37:55 | SUCCESS  | __main__:<module>:107 - task2已就绪
+2024-10-08 14:37:55 | SUCCESS  | __main__:<module>:120 - task3已就绪
+2024-10-08 14:37:55 | SUCCESS  | __main__:<module>:132 - crew已就绪
+2024-10-08 14:37:55 | ERROR    | __main__:<module>:140 - 执行任务时发生错误!错误信息：litellm.AuthenticationError: AuthenticationError: OpenAIException - The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2024-10-08 14:39:10 | SUCCESS  | __main__:<module>:37 - 作家已就绪
+2024-10-08 14:39:10 | SUCCESS  | __main__:<module>:55 - 内容编辑已就绪
+2024-10-08 14:39:10 | SUCCESS  | __main__:<module>:72 - 寄信人已就绪
+2024-10-08 14:42:12 | SUCCESS  | __main__:<module>:37 - 作家已就绪
+2024-10-08 14:42:12 | SUCCESS  | __main__:<module>:55 - 内容编辑已就绪
+2024-10-08 14:42:12 | SUCCESS  | __main__:<module>:72 - 寄信人已就绪
+2024-10-08 14:43:03 | SUCCESS  | __main__:<module>:91 - task1已就绪
+2024-10-08 14:43:03 | SUCCESS  | __main__:<module>:107 - task2已就绪
+2024-10-08 14:43:03 | SUCCESS  | __main__:<module>:120 - task3已就绪
+2024-10-08 14:43:03 | SUCCESS  | __main__:<module>:132 - crew已就绪
+2024-10-08 14:43:03 | ERROR    | __main__:<module>:140 - 执行任务时发生错误!错误信息：litellm.AuthenticationError: AuthenticationError: OpenAIException - The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2024-10-08 14:44:35 | SUCCESS  | __main__:<module>:37 - 作家已就绪
+2024-10-08 14:44:35 | SUCCESS  | __main__:<module>:55 - 内容编辑已就绪
+2024-10-08 14:44:35 | SUCCESS  | __main__:<module>:72 - 寄信人已就绪
+2024-10-08 14:44:41 | SUCCESS  | __main__:<module>:91 - task1已就绪
+2024-10-08 14:44:41 | SUCCESS  | __main__:<module>:107 - task2已就绪
+2024-10-08 14:44:41 | SUCCESS  | __main__:<module>:120 - task3已就绪
+2024-10-08 14:44:41 | SUCCESS  | __main__:<module>:132 - crew已就绪
+2024-10-08 14:44:41 | ERROR    | __main__:<module>:140 - 执行任务时发生错误!错误信息：litellm.AuthenticationError: AuthenticationError: OpenAIException - The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2024-10-08 14:58:31 | SUCCESS  | __main__:<module>:36 - 作家已就绪
+2024-10-08 14:58:31 | SUCCESS  | __main__:<module>:54 - 内容编辑已就绪
+2024-10-08 14:58:31 | SUCCESS  | __main__:<module>:71 - 寄信人已就绪
+2024-10-08 14:58:42 | SUCCESS  | __main__:<module>:90 - task1已就绪
+2024-10-08 14:58:42 | SUCCESS  | __main__:<module>:106 - task2已就绪
+2024-10-08 14:58:42 | SUCCESS  | __main__:<module>:119 - task3已就绪
+2024-10-08 14:58:42 | ERROR    | __main__:<module>:133 - 实例化crew时发生错误!错误信息：1 validation error for Crew
+verbose
+  Input should be a valid boolean, unable to interpret input [type=bool_parsing, input_value=2, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/bool_parsing
+2024-10-08 14:58:42 | ERROR    | __main__:<module>:139 - 执行任务时发生错误!错误信息：name 'crew' is not defined
+2024-10-08 14:59:28 | SUCCESS  | __main__:<module>:36 - 作家已就绪
+2024-10-08 14:59:28 | SUCCESS  | __main__:<module>:54 - 内容编辑已就绪
+2024-10-08 14:59:28 | SUCCESS  | __main__:<module>:71 - 寄信人已就绪
+2024-10-08 14:59:37 | SUCCESS  | __main__:<module>:90 - task1已就绪
+2024-10-08 14:59:37 | SUCCESS  | __main__:<module>:106 - task2已就绪
+2024-10-08 14:59:37 | SUCCESS  | __main__:<module>:119 - task3已就绪
+2024-10-08 14:59:37 | SUCCESS  | __main__:<module>:131 - crew已就绪
+2024-10-08 14:59:37 | ERROR    | __main__:<module>:139 - 执行任务时发生错误!错误信息：litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=glm-4
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers

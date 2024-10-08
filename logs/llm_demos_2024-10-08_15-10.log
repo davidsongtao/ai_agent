@@ -1,0 +1,170 @@
+2024-10-08 15:04:14 | SUCCESS  | __main__:<module>:36 - 作家已就绪
+2024-10-08 15:04:14 | SUCCESS  | __main__:<module>:54 - 内容编辑已就绪
+2024-10-08 15:04:14 | SUCCESS  | __main__:<module>:71 - 寄信人已就绪
+2024-10-08 15:04:22 | SUCCESS  | __main__:<module>:90 - task1已就绪
+2024-10-08 15:04:22 | SUCCESS  | __main__:<module>:106 - task2已就绪
+2024-10-08 15:04:22 | SUCCESS  | __main__:<module>:119 - task3已就绪
+2024-10-08 15:04:22 | ERROR    | __main__:<module>:133 - 实例化crew时发生错误!错误信息：1 validation error for Crew
+verbose
+  Input should be a valid boolean, unable to interpret input [type=bool_parsing, input_value=2, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/bool_parsing
+2024-10-08 15:04:22 | ERROR    | __main__:<module>:139 - 执行任务时发生错误!错误信息：name 'crew' is not defined
+2024-10-08 15:06:31 | SUCCESS  | __main__:<module>:36 - 作家已就绪
+2024-10-08 15:06:31 | SUCCESS  | __main__:<module>:54 - 内容编辑已就绪
+2024-10-08 15:06:31 | SUCCESS  | __main__:<module>:71 - 寄信人已就绪
+2024-10-08 15:06:37 | SUCCESS  | __main__:<module>:90 - task1已就绪
+2024-10-08 15:06:37 | SUCCESS  | __main__:<module>:106 - task2已就绪
+2024-10-08 15:06:37 | SUCCESS  | __main__:<module>:119 - task3已就绪
+2024-10-08 15:06:37 | ERROR    | __main__:<module>:133 - 实例化crew时发生错误!错误信息：1 validation error for Crew
+verbose
+  Input should be a valid boolean, unable to interpret input [type=bool_parsing, input_value=2, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/bool_parsing
+2024-10-08 15:06:37 | ERROR    | __main__:<module>:139 - 执行任务时发生错误!错误信息：name 'crew' is not defined
+2024-10-08 15:07:26 | SUCCESS  | __main__:<module>:36 - 作家已就绪
+2024-10-08 15:07:26 | SUCCESS  | __main__:<module>:54 - 内容编辑已就绪
+2024-10-08 15:07:26 | SUCCESS  | __main__:<module>:71 - 寄信人已就绪
+2024-10-08 15:07:30 | SUCCESS  | __main__:<module>:90 - task1已就绪
+2024-10-08 15:07:30 | SUCCESS  | __main__:<module>:106 - task2已就绪
+2024-10-08 15:07:30 | SUCCESS  | __main__:<module>:119 - task3已就绪
+2024-10-08 15:07:30 | SUCCESS  | __main__:<module>:131 - crew已就绪
+2024-10-08 15:08:58 | SUCCESS  | __main__:<module>:36 - 作家已就绪
+2024-10-08 15:08:58 | SUCCESS  | __main__:<module>:54 - 内容编辑已就绪
+2024-10-08 15:08:58 | SUCCESS  | __main__:<module>:71 - 寄信人已就绪
+2024-10-08 15:09:23 | SUCCESS  | __main__:<module>:90 - task1已就绪
+2024-10-08 15:09:23 | SUCCESS  | __main__:<module>:106 - task2已就绪
+2024-10-08 15:09:23 | SUCCESS  | __main__:<module>:119 - task3已就绪
+2024-10-08 15:09:23 | SUCCESS  | __main__:<module>:131 - crew已就绪
+2024-10-08 15:09:50 | ERROR    | custom_tools:store_poesy_to_txt:28 - 将书信保存到txt文档是发生错误！错误信息：[Errno 2] No such file or directory: 'ai_agent\\poesy.txt'
+2024-10-08 15:10:02 | ERROR    | custom_tools:store_poesy_to_txt:28 - 将书信保存到txt文档是发生错误！错误信息：[Errno 2] No such file or directory: 'ai_agent\\poesy.txt'
+2024-10-08 15:10:31 | ERROR    | custom_tools:store_poesy_to_txt:28 - 将书信保存到txt文档是发生错误！错误信息：[Errno 2] No such file or directory: 'ai_agent\\poesy.txt'
+2024-10-08 15:10:52 | ERROR    | custom_tools:store_poesy_to_txt:28 - 将书信保存到txt文档是发生错误！错误信息：[Errno 2] No such file or directory: 'ai_agent\\poesy.txt'
+2024-10-08 15:12:15 | SUCCESS  | __main__:<module>:36 - 作家已就绪
+2024-10-08 15:12:15 | SUCCESS  | __main__:<module>:54 - 内容编辑已就绪
+2024-10-08 15:12:15 | SUCCESS  | __main__:<module>:71 - 寄信人已就绪
+2024-10-08 15:12:24 | SUCCESS  | __main__:<module>:90 - task1已就绪
+2024-10-08 15:12:24 | SUCCESS  | __main__:<module>:106 - task2已就绪
+2024-10-08 15:12:24 | SUCCESS  | __main__:<module>:119 - task3已就绪
+2024-10-08 15:12:24 | SUCCESS  | __main__:<module>:131 - crew已就绪
+2024-10-08 15:12:45 | SUCCESS  | custom_tools:store_poesy_to_txt:25 - 将书信保存到txt文档成功！文件路径：poie.txt
+2024-10-08 15:15:47 | SUCCESS  | __main__:<module>:36 - 作家已就绪
+2024-10-08 15:15:47 | SUCCESS  | __main__:<module>:54 - 内容编辑已就绪
+2024-10-08 15:15:47 | SUCCESS  | __main__:<module>:71 - 寄信人已就绪
+2024-10-08 15:15:57 | SUCCESS  | __main__:<module>:90 - task1已就绪
+2024-10-08 15:15:57 | SUCCESS  | __main__:<module>:106 - task2已就绪
+2024-10-08 15:15:57 | SUCCESS  | __main__:<module>:119 - task3已就绪
+2024-10-08 15:15:57 | SUCCESS  | __main__:<module>:131 - crew已就绪
+2024-10-08 15:16:11 | SUCCESS  | custom_tools:store_poesy_to_txt:25 - 将书信保存到txt文档成功！文件路径：poie.txt
+2024-10-08 15:16:23 | SUCCESS  | custom_tools:send_message:64 - 邮件发送成功！
+2024-10-08 15:16:24 | SUCCESS  | __main__:<module>:137 - 任务执行完毕，结果为：邮件发送成功.
+2024-10-08 15:18:19 | SUCCESS  | __main__:<module>:36 - 作家已就绪
+2024-10-08 15:18:19 | SUCCESS  | __main__:<module>:54 - 内容编辑已就绪
+2024-10-08 15:18:19 | SUCCESS  | __main__:<module>:71 - 寄信人已就绪
+2024-10-08 15:19:56 | SUCCESS  | __main__:<module>:90 - task1已就绪
+2024-10-08 15:19:56 | SUCCESS  | __main__:<module>:106 - task2已就绪
+2024-10-08 15:19:56 | SUCCESS  | __main__:<module>:119 - task3已就绪
+2024-10-08 15:19:56 | SUCCESS  | __main__:<module>:131 - crew已就绪
+2024-10-08 15:20:13 | SUCCESS  | custom_tools:store_poesy_to_txt:25 - 将书信保存到txt文档成功！文件路径：poie.txt
+2024-10-08 15:20:23 | SUCCESS  | custom_tools:send_message:64 - 邮件发送成功！
+2024-10-08 15:20:25 | SUCCESS  | __main__:<module>:137 - 任务执行完毕，结果为：邮件发送成功.
+2024-10-08 15:23:44 | SUCCESS  | __main__:<module>:36 - 作家已就绪
+2024-10-08 15:23:44 | SUCCESS  | __main__:<module>:54 - 内容编辑已就绪
+2024-10-08 15:23:44 | SUCCESS  | __main__:<module>:71 - 寄信人已就绪
+2024-10-08 15:23:50 | SUCCESS  | __main__:<module>:90 - task1已就绪
+2024-10-08 15:23:50 | SUCCESS  | __main__:<module>:106 - task2已就绪
+2024-10-08 15:23:50 | SUCCESS  | __main__:<module>:119 - task3已就绪
+2024-10-08 15:23:50 | SUCCESS  | __main__:<module>:131 - crew已就绪
+2024-10-08 15:24:09 | SUCCESS  | custom_tools:store_poesy_to_txt:25 - 将书信保存到txt文档成功！文件路径：poie.txt
+2024-10-08 15:25:35 | SUCCESS  | __main__:<module>:36 - 作家已就绪
+2024-10-08 15:25:35 | SUCCESS  | __main__:<module>:54 - 内容编辑已就绪
+2024-10-08 15:25:35 | SUCCESS  | __main__:<module>:71 - 寄信人已就绪
+2024-10-08 15:25:46 | SUCCESS  | __main__:<module>:90 - task1已就绪
+2024-10-08 15:25:46 | SUCCESS  | __main__:<module>:106 - task2已就绪
+2024-10-08 15:25:46 | SUCCESS  | __main__:<module>:119 - task3已就绪
+2024-10-08 15:25:46 | SUCCESS  | __main__:<module>:131 - crew已就绪
+2024-10-08 15:26:00 | SUCCESS  | custom_tools:store_poesy_to_txt:25 - 将书信保存到txt文档成功！文件路径：poie.txt
+2024-10-08 15:26:08 | SUCCESS  | custom_tools:send_message:65 - 邮件发送成功！
+2024-10-08 15:26:09 | SUCCESS  | __main__:<module>:137 - 任务执行完毕，结果为：邮件发送成功.
+2024-10-08 15:32:00 | SUCCESS  | __main__:<module>:36 - 作家已就绪
+2024-10-08 15:32:00 | SUCCESS  | __main__:<module>:54 - 内容编辑已就绪
+2024-10-08 15:32:00 | SUCCESS  | __main__:<module>:71 - 寄信人已就绪
+2024-10-08 15:32:35 | SUCCESS  | __main__:<module>:90 - task1已就绪
+2024-10-08 15:32:35 | SUCCESS  | __main__:<module>:106 - task2已就绪
+2024-10-08 15:32:35 | SUCCESS  | __main__:<module>:119 - task3已就绪
+2024-10-08 15:32:35 | SUCCESS  | __main__:<module>:131 - crew已就绪
+2024-10-08 15:32:55 | SUCCESS  | custom_tools:store_poesy_to_txt:25 - 将书信保存到txt文档成功！文件路径：poie.txt
+2024-10-08 15:33:00 | SUCCESS  | custom_tools:send_message:65 - 邮件发送成功！
+2024-10-08 15:33:03 | SUCCESS  | __main__:<module>:137 - 任务执行完毕，结果为：邮件发送成功.
+2024-10-08 15:37:57 | SUCCESS  | __main__:<module>:36 - 作家已就绪
+2024-10-08 15:37:57 | SUCCESS  | __main__:<module>:54 - 内容编辑已就绪
+2024-10-08 15:37:57 | SUCCESS  | __main__:<module>:71 - 寄信人已就绪
+2024-10-08 15:38:03 | SUCCESS  | __main__:<module>:90 - task1已就绪
+2024-10-08 15:38:03 | SUCCESS  | __main__:<module>:106 - task2已就绪
+2024-10-08 15:38:03 | SUCCESS  | __main__:<module>:119 - task3已就绪
+2024-10-08 15:38:03 | SUCCESS  | __main__:<module>:131 - crew已就绪
+2024-10-08 15:38:20 | SUCCESS  | custom_tools:store_poesy_to_txt:25 - 将书信保存到txt文档成功！文件路径：poie.txt
+2024-10-08 15:38:32 | SUCCESS  | custom_tools:send_message:65 - 邮件发送成功！
+2024-10-08 15:38:33 | SUCCESS  | __main__:<module>:137 - 任务执行完毕，结果为：邮件发送成功.
+2024-10-08 15:41:14 | SUCCESS  | __main__:<module>:36 - 作家已就绪
+2024-10-08 15:41:14 | SUCCESS  | __main__:<module>:54 - 内容编辑已就绪
+2024-10-08 15:41:14 | SUCCESS  | __main__:<module>:71 - 寄信人已就绪
+2024-10-08 15:41:22 | SUCCESS  | __main__:<module>:90 - task1已就绪
+2024-10-08 15:41:22 | SUCCESS  | __main__:<module>:106 - task2已就绪
+2024-10-08 15:41:22 | SUCCESS  | __main__:<module>:119 - task3已就绪
+2024-10-08 15:41:22 | SUCCESS  | __main__:<module>:131 - crew已就绪
+2024-10-08 15:41:42 | SUCCESS  | custom_tools:store_poesy_to_txt:25 - 将书信保存到txt文档成功！文件路径：poie.txt
+2024-10-08 15:41:56 | SUCCESS  | custom_tools:send_message:65 - 邮件发送成功！
+2024-10-08 15:42:03 | SUCCESS  | __main__:<module>:137 - 任务执行完毕，结果为：邮件发送成功。以下是将包含在本地文件"poie.txt"中的书信内容成功发送到心仪的人的邮箱后的确认信息："在这广袤无垠的宇宙中，每一个星球都诉说着对你的思念。你是我心灵深处最温暖的光，照亮我生命的每一个角落。四季更替，岁月流转，我对你的情感如北斗指引，始终不渝。我愿将心中的每一个字，编织成对你最真挚的情话。在这封信里，我以笔为舟，承载着对你深深的眷恋和无尽的热爱，跨越万水千山，抵达你的心海。我的爱人，愿这封信能将我的情感如春风细雨般温柔地洒在你的心田。"
+2024-10-08 15:44:51 | SUCCESS  | __main__:<module>:36 - 作家已就绪
+2024-10-08 15:44:51 | SUCCESS  | __main__:<module>:54 - 内容编辑已就绪
+2024-10-08 15:44:51 | SUCCESS  | __main__:<module>:71 - 寄信人已就绪
+2024-10-08 15:45:19 | SUCCESS  | __main__:<module>:90 - task1已就绪
+2024-10-08 15:45:19 | SUCCESS  | __main__:<module>:106 - task2已就绪
+2024-10-08 15:45:19 | SUCCESS  | __main__:<module>:119 - task3已就绪
+2024-10-08 15:45:19 | SUCCESS  | __main__:<module>:131 - crew已就绪
+2024-10-08 15:45:44 | SUCCESS  | custom_tools:store_poesy_to_txt:25 - 将书信保存到txt文档成功！文件路径：poie.txt
+2024-10-08 15:46:03 | SUCCESS  | custom_tools:send_message:65 - 邮件发送成功！
+2024-10-08 15:46:20 | SUCCESS  | __main__:<module>:137 - 任务执行完毕，结果为：邮件已成功发送至jiangfan@example.com。邮件内容如下：
+
+主题：生日祝福
+
+亲爱的江帆，
+
+在这宇宙的浩瀚乐章中，你是我心弦上最动听的旋律。随着日夜更迭，我对你的情感如同不息的海浪，温柔而坚定地拍打着爱的海岸。在你生日这一天，我愿以星辰为笔，月光为墨，在天空中写下你的名字，让世界见证你为我的生活带来的光芒。
+
+江帆，你是我的守护星，你的微笑是我前行的动力。在无数个漫长的日夜里，我对你的思念如同潮水般汹涌，无法平息。今日，我只想告诉你：我的每一个字，都承载着我对你深深的眷恋和无尽的热爱。
+
+祝你生日快乐！愿你的生活如诗如画，充满欢笑与幸福。在未来的岁月里，让我紧握你的手，共同谱写属于我们的美好篇章。爱你，永远不变。
+
+深情款款的代松涛敬上。
+2024-10-08 15:49:08 | SUCCESS  | __main__:<module>:36 - 作家已就绪
+2024-10-08 15:49:08 | SUCCESS  | __main__:<module>:54 - 内容编辑已就绪
+2024-10-08 15:49:08 | SUCCESS  | __main__:<module>:71 - 寄信人已就绪
+2024-10-08 15:49:35 | SUCCESS  | __main__:<module>:90 - task1已就绪
+2024-10-08 15:49:35 | SUCCESS  | __main__:<module>:106 - task2已就绪
+2024-10-08 15:49:35 | SUCCESS  | __main__:<module>:119 - task3已就绪
+2024-10-08 15:49:35 | SUCCESS  | __main__:<module>:131 - crew已就绪
+2024-10-08 15:49:55 | SUCCESS  | custom_tools:store_poesy_to_txt:25 - 将书信保存到txt文档成功！文件路径：poie.txt
+2024-10-08 15:50:15 | SUCCESS  | custom_tools:send_message:65 - 邮件发送成功！
+2024-10-08 15:50:27 | SUCCESS  | __main__:<module>:137 - 任务执行完毕，结果为：邮件发送成功。
+
+江帆，
+
+我心中的明月光，今日，在你生日的美好时刻，我愿将满天的星辰摘下，为你编织成一顶璀璨的皇冠。在这宇宙的浩瀚乐章中，你是我心弦上最动听的旋律。随着四季的轮回，我对你的爱意如涓涓细流，汇聚成一片浩渺的爱海。每个日夜的更迭，你的影子在我心头轻轻摇曳，温柔而深刻。
+
+愿我的字字句句，如同点点星光，照亮你前行的道路，承载着我对你深深的眷恋和无尽的热爱。在这个特别的日子，我愿以风为使，以云为信，将我的祝福传递：愿你的每一天都比蜜甜，愿你的笑容如花般绽放，愿你的生活如诗如画，幸福满溢。
+
+生日快乐，我的爱人，愿我们的爱如天空中最亮的星，永恒不灭。
+
+代松涛敬上。
+2024-10-08 15:51:42 | SUCCESS  | __main__:<module>:36 - 作家已就绪
+2024-10-08 15:51:42 | SUCCESS  | __main__:<module>:54 - 内容编辑已就绪
+2024-10-08 15:51:42 | SUCCESS  | __main__:<module>:71 - 寄信人已就绪
+2024-10-08 15:52:12 | SUCCESS  | __main__:<module>:90 - task1已就绪
+2024-10-08 15:52:12 | SUCCESS  | __main__:<module>:106 - task2已就绪
+2024-10-08 15:52:12 | SUCCESS  | __main__:<module>:119 - task3已就绪
+2024-10-08 15:52:12 | SUCCESS  | __main__:<module>:131 - crew已就绪
+2024-10-08 15:52:35 | SUCCESS  | custom_tools:store_poesy_to_txt:25 - 将书信保存到txt文档成功！文件路径：poie.txt
+2024-10-08 15:52:49 | SUCCESS  | custom_tools:send_message:65 - 邮件发送成功！
+2024-10-08 15:52:52 | SUCCESS  | __main__:<module>:137 - 任务执行完毕，结果为：邮件发送成功。
+
+The content of the "poie.txt" file has been successfully sent to the intended person's email address (jiangfan@example.com) without any extra words added. The operation was completed as per the provided tool's function.
