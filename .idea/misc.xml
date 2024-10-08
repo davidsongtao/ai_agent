@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="king_coder" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="llama_index" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="ai_agent" project-jdk-type="Python SDK" />
 </project>

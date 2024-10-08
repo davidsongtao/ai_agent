@@ -13,4 +13,7 @@ class ParametersConfig(object):
     """全局参数配置"""
 
     def __init__(self):
-        self.log_directory = r"D:\ai_agent\logs"
+        self.log_directory = r"D:\ai_agent\logs"  # 日志文件保存路径
+        self.openai_api_key = "your_api_key"  # openai的API key
+        self.chatglm_api_key = "your_api_key"
+        self.openai_base_url = "https://api.openai.com/v1/"
